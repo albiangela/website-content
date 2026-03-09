@@ -54,7 +54,7 @@ When the object is detected again, TRex may start a new tracklet instead of cont
 .. raw:: html
 
    <div style="text-align:center;">
-     <video controls playsinline width="640" src="_static/hexbug_20250129_5_3.mov"></video>
+     <video controls playsinline width="640" src="_static/hexbug_20250129_5_example_max_speed.mp4"></video>
    </div>
 
 Try increasing ``track_max_speed`` so that it better reflects the maximum movement speed of your objects in the video.
