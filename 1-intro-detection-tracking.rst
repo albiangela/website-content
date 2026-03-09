@@ -1,4 +1,4 @@
-Hitchhiker's Guide to Tracking
+Introduction to Tracking
 =============================================
 If you are new to using TRex for object tracking, start here!
 You probably have a specific use case in mind, videos to analyze, and objects to track. 
